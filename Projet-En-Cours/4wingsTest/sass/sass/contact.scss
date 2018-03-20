@@ -1,0 +1,122 @@
+.contact {
+  h1 {
+    color: #00338d;
+    font-size: 2.5em;
+		font-family: 'montserrat', sans-serif;
+    margin-top: 3%;
+    margin-bottom: 3%;
+		.marron {
+			color:#564026;
+		}
+  }
+}
+.axes {
+  background-color: #007C92;
+}
+
+.formulaireContact {
+
+  .formulaireContactMain{
+    width: 1170px;
+    height: 750px;
+
+    .formulaireLeft{
+      height: 100%;
+      width: 75%;
+
+      h3 {
+    		font-size: 1.8em;
+    		font-family: 'montserrat', sans-serif;
+        text-align: center;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        line-height: 40px;
+    	}
+      form {
+        display: block;
+        width: 100%;
+        height: 100%;
+        padding: 6px 12px;
+        font-size: 14px;
+        line-height: 1.42857143;
+        color: #555;
+        background-image: none;
+        border-radius: 4px;
+        input{
+          background-color: #f6f3ed;
+          font-family: 'montserratregular', sans-serif;
+          height: 50px;
+        }
+        textarea{
+          background-color: #f6f3ed;
+          font-family: 'montserratregular', sans-serif;
+        }
+        button {
+          font-family: 'montserratregular', sans-serif;
+          width: 100%;
+          height: 60px;
+          font-size: 1.5em;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 25px;
+          padding-top: 8px;
+          color: white;
+          background-color: #db4d69;
+          &:hover{
+            background-color: #00338d;
+            color:white;
+          }
+        }
+      }
+    }
+    .formulaireRight{
+      height: 100%;
+      width: 25%;
+      background: linear-gradient(to bottom, #aadbdb 0%,#aadbdb 50%,#ffffff 100%);
+      text-align: center;
+
+      h2 {
+        font-size: 2.5em;
+        font-family: 'montserratregular', sans-serif;
+        margin-top: 15%;
+        color: white;
+      }
+      p {
+        font-size: 1.3em;
+        font-family: 'montserratregular', sans-serif;
+        color: #564026;
+        margin-top: 20%;
+      }
+      a {
+        font-size: 1.5em;
+        font-family: 'montserratregular', sans-serif;
+        margin-bottom: 1%;
+
+      }
+      img {
+        margin-top: 10%;
+      }
+    }
+  }
+}
+
+
+$break-small: 320px;
+$break-medium: 790px;
+
+
+  @media screen and (max-width: $break-small) {
+    .formulair {
+      display: block;
+    }
+    .formu {
+    width: 100%;
+    display: block;
+  }
+}
+  @media screen and (max-width: $break-medium) {
+    .formu {
+    width: 100%;
+    float: left;
+  }
+}

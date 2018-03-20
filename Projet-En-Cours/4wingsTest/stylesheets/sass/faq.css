@@ -1,0 +1,47 @@
+/* line 1, ../../sass/sass/faq.scss */
+.introFaq {
+  font-family: 'montserratregular', sans-serif;
+}
+/* line 4, ../../sass/sass/faq.scss */
+.introFaq h1 {
+  color: #00338d;
+  font-size: 3em;
+}
+/* line 7, ../../sass/sass/faq.scss */
+.introFaq h1 .marron {
+  color: #564026;
+}
+/* line 11, ../../sass/sass/faq.scss */
+.introFaq p {
+  color: #00338d;
+  font-size: 2em;
+}
+
+/* line 17, ../../sass/sass/faq.scss */
+.panels-faq {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+/* line 21, ../../sass/sass/faq.scss */
+.panels-faq h3 {
+  color: #00338d;
+  margin: 0px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+/* line 27, ../../sass/sass/faq.scss */
+.panels-faq h3:hover {
+  color: #db4d69;
+  text-decoration: none;
+}
+
+/* line 34, ../../sass/sass/faq.scss */
+.panel-body {
+  background-color: beige;
+}
+
+/* line 38, ../../sass/sass/faq.scss */
+.panel-group .panel-heading {
+  border-bottom: 5px solid #db4d69;
+}

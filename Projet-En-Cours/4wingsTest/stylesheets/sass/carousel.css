@@ -1,0 +1,100 @@
+/********************
+ * FEATURE CAROUSEL *
+ ********************/
+/* line 5, ../../sass/sass/carousel.scss */
+.carousel-container {
+  position: relative;
+}
+
+/* line 10, ../../sass/sass/carousel.scss */
+#carousel {
+  height: 470px;
+  background-color: #00338d;
+  position: relative;
+  margin-bottom: 0.5em;
+  font-size: 12px;
+  font-family: Arial;
+}
+
+/* line 20, ../../sass/sass/carousel.scss */
+.carousel-image {
+  border: 0;
+  display: block;
+}
+
+/* line 25, ../../sass/sass/carousel.scss */
+.carousel-feature {
+  position: absolute;
+  border: 2px solid #00338d;
+  cursor: pointer;
+}
+/* line 31, ../../sass/sass/carousel.scss */
+.carousel-feature .carousel-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #000;
+}
+/* line 36, ../../sass/sass/carousel.scss */
+.carousel-feature .carousel-caption p {
+  margin: 0;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 12px;
+  color: white;
+}
+
+/* line 46, ../../sass/sass/carousel.scss */
+.tracker-summation-container {
+  position: absolute;
+  color: white;
+  right: 48px;
+  top: 230px;
+  padding: 3px;
+  margin: 3px;
+  background-color: #000;
+}
+
+/* line 56, ../../sass/sass/carousel.scss */
+.tracker-individual-container {
+  position: absolute;
+  color: white;
+  right: 48px;
+  top: 210px;
+  padding: 0;
+  margin: 0;
+}
+/* line 63, ../../sass/sass/carousel.scss */
+.tracker-individual-container li {
+  list-style: none;
+}
+/* line 66, ../../sass/sass/carousel.scss */
+.tracker-individual-container .tracker-individual-blip {
+  margin: 0 3px;
+  padding: 0 3px;
+  color: white;
+  text-align: center;
+  background-color: #DDD;
+}
+/* line 73, ../../sass/sass/carousel.scss */
+.tracker-individual-container .tracker-individual-blip-selected {
+  color: white;
+  font-weight: bold;
+  background-color: #000;
+}
+
+/* line 80, ../../sass/sass/carousel.scss */
+#carousel-left {
+  position: absolute;
+  bottom: 33px;
+  left: 220px;
+  cursor: pointer;
+}
+
+/* line 87, ../../sass/sass/carousel.scss */
+#carousel-right {
+  position: absolute;
+  bottom: 33px;
+  right: 220px;
+  cursor: pointer;
+}

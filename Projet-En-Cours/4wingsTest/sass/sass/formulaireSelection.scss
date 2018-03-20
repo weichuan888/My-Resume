@@ -1,0 +1,130 @@
+.formulaireSelection {
+  font-family: 'Montserrat',sans-serif;
+
+  .formulaireMain{
+    height: 1400px;
+    width: 100%;
+    .marron {
+      color:#564026;
+    }
+
+    .formulaireLeft{
+      width: 75%;
+      height: 100%;
+
+      h3 {
+        font-size: 3.5em;
+        text-align: left;
+        margin-left: 18px;
+        color: #00338d;
+      }
+      p{
+        font-size: 1.5em;
+        text-align: left;
+        margin-left: 18px;
+        color: #00338d;
+      }
+      form {
+        margin-left: 2%;
+        margin-top: 4%;
+
+        .form-group {
+          height: 50px;
+          .fichierok{
+            label {
+              input {
+                margin-left: -2%;
+                display: block;
+                margin-right: -2%;
+                float: right;
+              }
+            }
+          }
+
+          label {
+            float:left;
+            margin-bottom: 1%;
+            font-size: 20px;
+            color: #337ab7;
+
+              textarea {
+                margin-bottom: 2%;
+              }
+
+            input{
+              margin-top: 1%;
+              float: right;
+            }
+            .fichierDiv{
+              margin-left: -2%;
+              display: block;
+              margin-right: -2%;
+              margin-top: -1%;
+              float: right;
+            }
+          }
+        }
+      }
+      .Send {
+        font-family: 'montserratregular', sans-serif;
+        width: 100%;
+        height: 60px;
+        font-size: 1.5em;
+        margin-top: 25px;
+        padding-top: 8px;
+        color: white;
+        background-color: #db4d69;
+        &:hover{
+          background-color: #00338d;
+          color:white;
+        }
+      }
+
+    }
+
+    .formulaireRight {
+      background: linear-gradient(to bottom, #aadbdb 0%,#aadbdb 50%,#ffffff 100%);
+      height: 100%;
+      width: 25%;
+      text-align: center;
+      padding-top: 5%;
+      margin-top: -0.5%;
+      font-family: 'montserratregular', sans-serif;
+
+      h2 {
+        padding-bottom: 10%;
+        color: white;
+      }
+      p {
+        font-size: 1.2em;
+      }
+      a {
+        font-size: 1.2em;
+      }
+      img{
+        margin-top: 15%;
+      }
+
+    }
+  }
+}
+
+// $break-small: 320px;
+// $break-medium: 790px;
+//
+//
+//   @media screen and (max-width: $break-small) {
+//     .formulair {
+//       display: block;
+//     }
+//     .formu {
+//     width: 100%;
+//     display: block;
+//   }
+// }
+//   @media screen and (max-width: $break-medium) {
+//     .formu {
+//     width: 100%;
+//     float: left;
+//   }
+// }

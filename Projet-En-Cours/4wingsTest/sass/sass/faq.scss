@@ -1,0 +1,40 @@
+.introFaq {
+  font-family: 'montserratregular', sans-serif;
+
+  h1 {
+    color:#00338d;
+    font-size: 3em;
+    .marron{
+      color: #564026;
+    }
+  }
+  p {
+    color: #00338d;
+    font-size: 2em;
+  }
+}
+
+.panels-faq {
+  font-size: 18px;
+
+  margin-bottom: 30px;
+  h3 {
+    color: #00338d;
+    margin: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    &:hover {
+      color: #db4d69;
+      text-decoration: none;
+    }
+  }
+}
+
+.panel-body {
+  background-color: beige;
+}
+
+.panel-group .panel-heading {
+  border-bottom: 5px solid #db4d69;
+}

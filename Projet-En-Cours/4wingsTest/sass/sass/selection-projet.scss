@@ -1,0 +1,57 @@
+.SelectionTitre {
+  background-color: #db4d69;
+  color:white;
+  font-family: 'Montserrat';
+  border: 2px solid;
+  margin-top: -1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+
+
+  h1 {
+    font-size: 3.5em;
+    text-transform: uppercase;
+  }
+  h2 {
+    font-size: 2em;
+  }
+
+}
+.intro {
+  font-family: 'Montserrat';
+  margin-top: 2%;
+
+  p {
+    font-size: 1.8em;
+
+  }
+}
+.criteres {
+  margin-left: 3%;
+  margin-top: 2%;
+  padding-bottom: 2%;
+
+  ul {
+    font-family: 'Montserrat';
+
+    li {
+      font-size: 1.5em;
+    }
+  }
+}
+.collaboration {
+  font-family: 'Montserrat';
+  font-size: 1.5em;
+  padding-bottom: 2%;
+}
+.candidature {
+  font-family: 'Montserrat';
+  h3 {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  p {
+    font-size: 1.3em;
+  }
+}
