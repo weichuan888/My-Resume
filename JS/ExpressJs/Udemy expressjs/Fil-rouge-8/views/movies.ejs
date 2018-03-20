@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Movies</title>
+    <link rel="stylesheet" href="../public/style.css" type="text/css">
+  </head>
+  <body>
+    <div class="central">
+      <% include ./partial/header %>
+
+      <h1> <%= title %></h1>
+      <div>
+        <% for(movie of movies) {%>
+          <div>
+            <%= movie.title %> <%= movie.year %>
+          </div>
+          <% } %>
+      </div>
+      <p>Venez vous amusez avec express JS!</p>
+    </div>
+    <br/>
+    <div class="formi">
+      <form class="formulaire" action="/movies" method="post">
+        <label for="movietitle">Titre du film</label>
+        <input type="text" name="movietitle" id="movietitle">
+        <label for="movieyear">Année du film</label>
+        <input type="text" name="movieyear" id="movieyear">
+        <button type='submit'>Ajouter</button>
+
+      </form>
+      <br/>
+    </div>
+
+
+    <% include ./partial/footer %>
+
+  </body>
+</html>

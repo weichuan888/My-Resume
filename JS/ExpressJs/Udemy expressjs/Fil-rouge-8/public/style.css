@@ -1,0 +1,19 @@
+*{
+  padding: 0 auto;
+  margin: 0 auto;
+
+}
+body {
+  font-family:Consolas, Monaco, "Andale Mono", monospace;
+}
+
+.central {
+  min-height: 250px;
+}
+a {
+  text-decoration: none;
+}
+
+h1 {
+  background-color: red;
+}
