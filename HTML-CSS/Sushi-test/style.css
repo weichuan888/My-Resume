@@ -1,0 +1,156 @@
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+
+
+
+.contain {
+
+  height: 350px;
+  background-image: url ("http://www.voyages-au-japon.com/share_image/1861/Kawaguchiko-momiji-pagode-mont-Fuji1.jpg");
+}
+
+.logo{
+
+  width: 600px;
+  float: left;
+  margin-left: 300px;
+}
+
+.adresse {
+  border: 2px solid blue;
+  width: 800px;
+
+  float : left;
+  margin-left: 600px;
+  margin-top: -200px;
+  text-align: center;
+  box-sizing: border-box;
+  box-shadow: 5px 5px 5px black;
+
+}
+
+
+
+.button {
+
+}
+.rubrique {
+  float: left;
+  margin-left: 7%;
+  margin-top: 30px;
+  border: 2px solid red;
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  box-sizing: border-box;
+  font-size: 25px;
+  font-family: helvetica, sans-serif;
+  width: 300px;
+  display: inline-block;
+  box-shadow: 3px 3px 3px black;
+
+
+}
+.clear {
+  clear: left;
+}
+
+.menu {
+  margin-top: 10px;
+  background-color: grey;
+  position: relative;
+
+}
+
+.menu .texte {
+  border: 2px solid yellow;
+  text-align: center;
+  margin-right: 90px;
+  margin-top: -113px;
+  width: 1000px;
+  line-height: normal;
+}
+
+
+.plats {
+  border: 2px solid blue;
+  height: 700px;
+}
+
+.case {
+  border: 2px solid blue;
+  float: left;
+  width: 400px;
+  margin-left: 10%;
+  height: 500px;
+  margin-top : 10px;
+  border-radius: 80px;
+  text-align: center;
+  padding-top: 150px;
+  font-size: 50px;
+
+}
+
+.suite {
+  border: 2px solid black;
+  width: auto;
+  height: 300px;
+  text-align: center;
+
+  background: linear-gradient(#84FF7C, #82ADFF);
+
+
+}
+
+.suite h4 {
+  font-size: 50px;
+  padding-top: 40px;
+  font-weight: bold;
+  font-family: helvetica, sans-serif;
+}
+
+.suite p {
+  font-size: 20px;
+  padding-top: 30px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 2px;
+  font-family: cursive, serif;
+}
+
+
+footer {
+  background-color: black;
+  color: white;
+
+}
+.icon_button  .site{
+
+
+}
+
+/*ecran tablette */
+
+
+@media screen and (max-width: 978px)  {
+  .logo{
+    width: 100%;
+  }
+  .adresse {
+    width: 100%
+  }
+
+}
+
+
+
+/*ecran smartphone */
+
+
+@media screen and (max-width: 370px) {
+
+}
