@@ -1,0 +1,19 @@
+.mp {
+  background-color: red;
+}
+
+.lo {
+  background-color: blue;
+}
+
+.ko {
+  border: 2px solid black;
+}
+
+.ji {
+  border: 2px solid black;
+}
+
+.row {
+  text-align: center;
+}

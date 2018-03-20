@@ -1,0 +1,21 @@
+.row {
+  background-color: red;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.un {
+  background-color: yellow;
+}
+.deux {
+  background-color: blue;
+
+}
+.trois {
+  background-color: green;
+
+}
+
+.form{
+  width: 30%;
+}

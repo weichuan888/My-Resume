@@ -1,0 +1,32 @@
+* {
+  padding: 0 auto;
+  margin: 0 auto;
+}
+
+
+.ok {
+  background-color:red;
+}
+.az {
+  background-color: yellow;
+  height: 200px;
+  display: block;
+  border: 2px solid white;
+
+}
+.qs {
+  background-color: blue;
+  height: 600px;
+}
+
+.po {
+  background-color: green;
+  height: 400px;
+  border: 2px solid black;
+}
+ .lol {
+   background-color: pink;
+ }
+.machin {
+  background-color: aqua;
+}

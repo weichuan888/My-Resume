@@ -1,0 +1,20 @@
+*{
+  padding: 0 auto;
+  margin: 0 auto;
+}
+.container-fluid-main {
+  background-color: red;
+
+}
+
+.test {
+
+}
+
+.lol {
+  border: 2px solid black;
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+
+}
