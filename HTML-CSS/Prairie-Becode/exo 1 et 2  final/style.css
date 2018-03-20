@@ -1,0 +1,111 @@
+title {
+  color: yellow;
+  background color: red;
+}
+
+body{
+ background-color: #4DE8E3;
+
+}
+p{
+color:blue;
+}
+
+a, img {
+
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+.objectif {
+
+  background-color: white;
+}
+.table {
+  background-color: yellow;
+}
+
+h1 {
+  color: #3D9AFF;
+  font-family: Helvetica, sans-serif;
+  font-size: 60px;
+  line-height: normal;
+  word-spacing: 0.25em;
+  font-weight: bold;
+  text-align: center;
+
+
+}
+h2 {
+  color: #FF65BE;
+  font-style: italic;
+  font-size: 40px;
+  line-height: normal;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+
+}
+
+Strong {
+  color: green;
+}
+
+h3{
+  color: red;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-style: normal;
+}
+
+h4 {
+  color: #4B62FF;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: 100;
+
+}
+
+h5 {
+  color: black;
+  font-size: 20px;
+  font-weight: 300;
+  font-family:fantasy;
+}
+
+h6 {
+
+  color: bleu;
+  font-size: 15px;
+  font-style: oblique;
+  font-weight: lighter;
+}
+
+table, th, td {
+  table-layout: auto;
+  border: 1px solid black;
+  text-align: center;
+  border-color: #3069FF;
+  border-style: solid;
+
+
+}
+
+table {
+  border-collapse: collapse;
+  width: : 100%;
+  position: static;
+}
+
+th {
+  height: 50px;
+}
+
+td {
+vertical-align: bottom;
+}
+
+th, td {
+padding: 10px;
+
+}

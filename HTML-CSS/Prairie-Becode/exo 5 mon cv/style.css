@@ -1,0 +1,78 @@
+body{
+  background: grey;
+}
+
+.page{
+width: 800px;
+font-size: 15px;
+font-family: Helvetica;
+margin: auto;
+padding: 40px;
+border: 5px solid black;
+border-radius: 10px;
+box-shadow: 2px 4px 3px black;
+background-color: #FFFFFF;
+}
+.infophoto{
+
+height: 250px;
+}
+
+.info p {
+  float: right;
+  text-align: justify;
+  font-size: Helvetica;
+  margin-right: 300px;
+  padding-top: 30px;
+
+}
+.photo {
+  float: left;
+  text-align: justify;
+
+}
+
+
+.section{
+
+    margin-bottom: 70px;
+    text-align: justify;
+
+
+}
+
+
+h2{
+  font-size: 28px;
+  color: blue;
+  text-transform: uppercase;
+  border-bottom: 3px solid blue;
+
+
+}
+.sec-gauche{
+  float: left;
+
+  font-size: 15px;
+
+}
+.duree{
+  font-weight: normal;
+  font-style: italic;
+  font-size: 15px;
+}
+
+.sec-droite {
+ margin-left: 150px;
+ margin-top: 28px;
+ height: 200px;
+ 
+
+
+}
+.titre {
+
+  font-size: 15px;
+
+
+}

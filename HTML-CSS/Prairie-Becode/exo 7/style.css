@@ -1,0 +1,69 @@
+body{
+background-color: black;
+overflow: hidden;
+
+}
+
+.box{
+  width: 800px;
+  margin: 0 auto;
+  text-align: justify;
+
+  transform: perspective(600px) rotateX(30deg);
+
+}
+
+.texte {
+  transform-origin: 50% 100%;
+
+  position: relative;
+  animation-name: starwars;
+  animation-duration: 20s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  text-align: justify;
+  text-transform: uppercase;
+
+}
+
+
+
+h1 {
+  color: yellow;
+  font-size: 50px;
+  font-family: Helvetica;
+  font-weight: bold;
+
+
+}
+
+h2 , h3{
+  color: red;
+  font-size: 40px;
+  font-family: Helvetica;
+  font-weight: bold;
+
+}
+
+p{
+  color: yellow;
+
+  font-size: 35px;
+  font-family: helvetica;
+  font-style: italic;
+
+
+
+}
+
+@keyframes starwars {
+  0%{
+    top: 0;
+
+    transform: rotateX( 25deg ) translateZ(-700px);
+  }
+  100%{
+    top: -1000px;
+    transform: rotateX( 35deg ) translateZ(2000px);
+  }
