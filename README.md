@@ -1,8 +1,7 @@
 # Projets 
 
 ## 4wings
-see [4wings-en-cours]
-(https://github.com/GjeloshajAntoine/4wing-website)
+see [4wings-en-cours](https://github.com/GjeloshajAntoine/4wing-website)
 
 Front-end : Occupation des pages : 
 
@@ -20,16 +19,15 @@ Back-end : Occupation :
 
 >Techno : PHP et Mysql
 
-see [4wing-test]
-(https://github.com/weichuan888/My-Resume/tree/master/Projet-En-Cours/4wingsTest/Controller)
+see [4wing-test](https://github.com/weichuan888/My-Resume/tree/master/Projet-En-Cours/4wingsTest/Controller)
 
-=> Structure MVC
+=> repo test : Structure MVC
 
 ## Fil-Rouge 
 
 Back-end :
-* [connexion] ( https://github.com/weichuan888/Fil-Rouge/blob/master/Connexion.php)
-* [inscription] (https://github.com/weichuan888/Fil-Rouge/blob/master/Inscription.php)
+* [connexion](https://github.com/weichuan888/Fil-Rouge/blob/master/Connexion.php)
+* [inscription](https://github.com/weichuan888/Fil-Rouge/blob/master/Inscription.php)
 
 >Techno : PHP et Mysql
 
@@ -43,38 +41,33 @@ Back-end :
 # Becode parcours
 
 ## ReactJS
-see [ReactJS] 
-(https://github.com/weichuan888/ReactJS-Exo)
+see [ReactJS](https://github.com/weichuan888/ReactJS-Exo)
 
 >Exercices en ReactJs.
 
 ----
 
 ## NodeJS 
-see [NodeJS]
-(https://github.com/weichuan888/NODE-JS)
+see [NodeJS](https://github.com/weichuan888/NODE-JS)
 
 >Exercices en NodeJS.
 
 -----
 
 ## SASS & Bootsrap
-see [Sass-Bootsrap]
-(https://github.com/weichuan888/My-Resume/tree/master/Boostrap-SASS)
+see [Sass-Bootsrap](https://github.com/weichuan888/My-Resume/tree/master/Boostrap-SASS)
 
 ----
 
 ## PHP
-see [PHP]
-(https://github.com/weichuan888/My-Resume/tree/master/PHP/PHP-EXOS)
+see [PHP](https://github.com/weichuan888/My-Resume/tree/master/PHP/PHP-EXOS)
 
 >Exercices en Php.
 
 ----
 
 ## Javascript
-see [Javascript]
-(https://github.com/weichuan888/My-Resume/tree/master/JS/javascript)
+see [Javascript](https://github.com/weichuan888/My-Resume/tree/master/JS/javascript)
 
 >Exercices en Javascript.
 
