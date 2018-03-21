@@ -19,9 +19,9 @@ Back-end : Occupation :
 
 >Techno : PHP et Mysql
 
-voir [4wing-test](https://github.com/weichuan888/My-Resume/tree/master/Projet-En-Cours/4wingsTest/Controller)
+voir [4wing-test](https://github.com/weichuan888/My-Resume/blob/master/Projet-En-Cours/4wingsTest/Views/formulaireEquipe.php)
 
-=> repo test : Structure MVC
+=> repo 4wings-test : refaire la structure MVC et test backend
 
 ## Fil-Rouge 
 
