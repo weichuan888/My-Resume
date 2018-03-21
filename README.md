@@ -1,6 +1,6 @@
 # Projets 
 
-## 4wings
+## 4wings (en cours)
 voir [4wings-en-cours](https://github.com/GjeloshajAntoine/4wing-website)
 
 Front-end : Occupation des pages : 
@@ -23,7 +23,7 @@ voir [4wing-test](https://github.com/weichuan888/My-Resume/blob/master/Projet-En
 
 => repo 4wings-test : refaire la structure MVC et test backend
 
-## Fil-Rouge 
+## Fil-Rouge (en cours)
 
 Back-end :
 * [connexion](https://github.com/weichuan888/Fil-Rouge/blob/master/Connexion.php)
@@ -31,6 +31,9 @@ Back-end :
 
 >Techno : PHP et Mysql
 
+## PortFolioReact Js (en cours)
+
+voir [MonPortFolioReactJS](https://github.com/weichuan888/PortFolio-en-ReactJS/tree/en-cours)
 
 
 # Becode parcours
